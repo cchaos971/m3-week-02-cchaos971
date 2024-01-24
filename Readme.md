@@ -4,7 +4,7 @@
 | #  | 學習項目                                  | 作品連結         |
 |----|-----------------------------------------|--------------|
 | 01 | 透過建構貓咪照片 APP 學習 HTML            | https://cchaos971.github.io/m3-week-02-cchaos971/cat_photo_app/ |
-| 02 | 透過製作一個咖啡目錄，來學習 CSS           |  |
+| 02 | 透過製作一個咖啡目錄，來學習 CSS           | https://cchaos971.github.io/m3-week-02-cchaos971/cafe_menu/ |
 | 03 | 透過一個註冊表單，學習 HTML Form (表單)    |  |
 | 04 | 透過建立一幅 Rothko 畫作學習 CSS 盒子模型 |  |
 | 05 | 透過建立一個相片藝廊學習 CSS Flexbox      |  |
