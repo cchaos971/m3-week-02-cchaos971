@@ -7,7 +7,7 @@
 | 02 | 透過製作一個咖啡目錄，來學習 CSS           | https://cchaos971.github.io/m3-week-02-cchaos971/cafe_menu/ |
 | 03 | 透過一個註冊表單，學習 HTML Form (表單)    | https://cchaos971.github.io/m3-week-02-cchaos971/registration_form/ |
 | 04 | 透過建立一幅 Rothko 畫作學習 CSS 盒子模型 | https://cchaos971.github.io/m3-week-02-cchaos971/rothko_painting/ |
-| 05 | 透過建立一個相片藝廊學習 CSS Flexbox      |  |
+| 05 | 透過建立一個相片藝廊學習 CSS Flexbox      | https://cchaos971.github.io/m3-week-02-cchaos971/photo_gallery/ |
 | 06 | 通過構建摩天輪來學習 CSS 動畫             |  |
 | 07 | 透過建立一隻企鵝學習 CSS 變形效果         |  |
 | 08 | 透過畫一隻貓學習進階 CSS                  |  |
