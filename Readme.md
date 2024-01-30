@@ -9,7 +9,7 @@
 | 04 | 透過建立一幅 Rothko 畫作學習 CSS 盒子模型 | https://cchaos971.github.io/m3-week-02-cchaos971/rothko_painting/ |
 | 05 | 透過建立一個相片藝廊學習 CSS Flexbox      | https://cchaos971.github.io/m3-week-02-cchaos971/photo_gallery/ |
 | 06 | 通過構建摩天輪來學習 CSS 動畫             | https://cchaos971.github.io/m3-week-02-cchaos971/ferris_wheel/ |
-| 07 | 透過建立一隻企鵝學習 CSS 變形效果         |  |
+| 07 | 透過建立一隻企鵝學習 CSS 變形效果         | https://cchaos971.github.io/m3-week-02-cchaos971/penguin/ |
 | 08 | 透過畫一隻貓學習進階 CSS                  |  |
 | 09 | 製作一個致敬頁面 Tribute Page             |  |
 | 10 | 製作一個個人作品集網站 Portfolio          |  |
