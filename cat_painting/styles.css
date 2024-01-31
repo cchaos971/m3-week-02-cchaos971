@@ -1,0 +1,176 @@
+:root {
+    --cat-skin-color: #d1ab59;
+    --ears-inner-color: #f3bc68;
+}
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: #f2f3b7;
+}
+.cat-head {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    width: 205px;
+    height: 180px;
+    background: linear-gradient(var(--cat-skin-color) 85%, #856010d5 100%);
+    border: 1px solid #000;
+    border-radius: 46%;
+}
+.cat-ear-left{
+    position: absolute;
+    /* background-color: aquamarine; */
+    top: -26px;
+    left: -31px;
+    border-left: 35px solid transparent;
+    border-right: 35px solid transparent;
+    border-bottom: 70px solid var(--cat-skin-color);
+    z-index: 1;
+    transform: rotate(-45deg);
+    border-top-left-radius: 90px;
+    border-top-right-radius: 10px;
+}
+.cat-ear-right{
+    position: absolute;
+    /* background-color: aquamarine; */
+    top: -26px;
+    left: 164px;
+    border-left: 35px solid transparent;
+    border-right: 35px solid transparent;
+    border-bottom: 70px solid var(--cat-skin-color);
+    z-index: 1;
+    transform: rotate(45deg);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 90px;
+}
+.cat-ear-left-inner {
+    position: absolute;
+    /* background-color: aquamarine; */
+    top: 20px;
+    left: -20px;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-bottom: 45px solid var(--ears-inner-color);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 60px;
+}
+.cat-ear-right-inner {
+    position: absolute;
+    /* background-color: aquamarine; */
+    top: 20px;
+    left: -20px;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-bottom: 45px solid var(--ears-inner-color);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 60px;
+}
+.cat-eye-left {
+    position: absolute;
+    width: 30px;
+    height: 40px;
+    top: 50px;
+    left: 40px;
+    background-color: rgb(235, 247, 123);
+    border-radius: 60%;
+    transform: rotate(-25deg);
+}
+.cat-eye-right {
+    position: absolute;
+    width: 30px;
+    height: 40px;
+    top: 50px;
+    left: 130px;
+    background-color: rgb(134, 151, 245);
+    border-radius: 60%;
+    transform: rotate(25deg);
+}
+.cat-eye-left-inner {
+    position: absolute;
+    width: 10px;
+    height: 15px;
+    top: 20px;
+    left: 9px;
+    background-color: black;
+    border-radius: 50%;
+}
+.cat-eye-right-inner {
+    position: absolute;
+    width: 10px;
+    height: 15px;
+    top: 20px;
+    left: 9px;
+    background-color: black;
+    border-radius: 50%;
+}
+.cat-nose {
+    position: absolute;
+    /* background-color: #000; */
+    width: 20px;
+    height: 20px;
+    top: 100px;
+    left: 85px;
+    border-left: 15px solid transparent;
+    border-right: 15px solid transparent;
+    border-bottom: 20px solid #943d0b;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    transform: rotate(180deg);
+}
+.cat-mouth div {
+    position: absolute;
+    width: 30px;
+    height: 50px;
+    border: 2px solid;
+    border-radius: 190%/190px 150px 0 0;
+    border-color: black transparent transparent transparent;
+}
+.cat-mouth-line-left {
+    top: 75px;
+    left: 78px;
+    transform: rotate(180deg);
+}
+.cat-mouth-line-right {
+    top: 75px;
+    left: 91px;
+    transform: rotate(180deg) scaleX(-1);
+}
+.cat-whisker-left div, .cat-whisker-right div {
+    position: absolute;
+    width: 45px;
+    height: 1px;
+    background-color: #000;
+    z-index: 2;    
+}
+.cat-whisker-left-top {
+    top: 113px;
+    left: 33px;
+    transform: rotate(5deg);
+}
+.cat-whisker-left-middle {
+    top: 120px;
+    left: 33px;
+}
+.cat-whisker-left-bottom {
+    top: 127px;
+    left: 33px;
+    transform: rotate(-5deg);
+}
+.cat-whisker-right-top {
+    top: 113px;
+    left: 123px;
+    transform: rotate(-5deg);
+}
+.cat-whisker-right-middle {
+    top: 120px;
+    left: 123px;
+}
+.cat-whisker-right-bottom {
+    top: 127px;
+    left: 123px;
+    transform: rotate(5deg);
+}
