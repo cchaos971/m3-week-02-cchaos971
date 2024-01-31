@@ -10,7 +10,7 @@
 | 05 | 透過建立一個相片藝廊學習 CSS Flexbox      | https://cchaos971.github.io/m3-week-02-cchaos971/photo_gallery/ |
 | 06 | 通過構建摩天輪來學習 CSS 動畫             | https://cchaos971.github.io/m3-week-02-cchaos971/ferris_wheel/ |
 | 07 | 透過建立一隻企鵝學習 CSS 變形效果         | https://cchaos971.github.io/m3-week-02-cchaos971/penguin/ |
-| 08 | 透過畫一隻貓學習進階 CSS                  |  |
+| 08 | 透過畫一隻貓學習進階 CSS                  | https://cchaos971.github.io/m3-week-02-cchaos971/cat_painting/ |
 | 09 | 製作一個致敬頁面 Tribute Page             |  |
 | 10 | 製作一個個人作品集網站 Portfolio          |  |
 | 11 | 導覽列切板                                |  |
